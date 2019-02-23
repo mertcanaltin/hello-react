@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>B162DC11-0178-4725-BF7E-F8E49940913C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B162DC11-0178-4725-BF7E-F8E49940913C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project LoginApp with scheme LoginApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572649499.91684794</real>
+			<key>timeStoppedRecording</key>
+			<real>572649602.861709</real>
+			<key>title</key>
+			<string>Building project LoginApp with scheme LoginApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B162DC11-0178-4725-BF7E-F8E49940913C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
